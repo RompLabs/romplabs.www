@@ -1,0 +1,20 @@
+{
+  "name": "romplabs-www",
+  "description": "website for romplabs.com",
+  "main": "",
+  "authors": [
+    "John Untivero <jpuntivero@gmail.com>"
+  ],
+  "license": "MIT",
+  "homepage": "http://www.romplabs.com/",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "v4.0.0-beta"
+  }
+}
